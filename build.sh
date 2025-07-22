@@ -1,3 +1,5 @@
+# 这是测试备注
+
 appName="alist"
 builtAt="$(date +'%F %T %z')"
 goVersion=$(go version | sed 's/go version //')
